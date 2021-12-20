@@ -1,0 +1,15 @@
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\bin\Debug\netcoreapp3.1\DomaciGIt.exe
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\bin\Debug\netcoreapp3.1\DomaciGIt.deps.json
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\bin\Debug\netcoreapp3.1\DomaciGIt.runtimeconfig.json
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\bin\Debug\netcoreapp3.1\DomaciGIt.runtimeconfig.dev.json
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\bin\Debug\netcoreapp3.1\DomaciGIt.dll
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\bin\Debug\netcoreapp3.1\DomaciGIt.pdb
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\obj\Debug\netcoreapp3.1\DomaciGIt.csprojAssemblyReference.cache
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\obj\Debug\netcoreapp3.1\DomaciGIt.Form1.resources
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\obj\Debug\netcoreapp3.1\DomaciGIt.csproj.GenerateResource.cache
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\obj\Debug\netcoreapp3.1\DomaciGIt.AssemblyInfoInputs.cache
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\obj\Debug\netcoreapp3.1\DomaciGIt.AssemblyInfo.cs
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\obj\Debug\netcoreapp3.1\DomaciGIt.csproj.CoreCompileInputs.cache
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\obj\Debug\netcoreapp3.1\DomaciGIt.dll
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\obj\Debug\netcoreapp3.1\DomaciGIt.pdb
+D:\Andrej Baze\Domaci 1\Domaci\gitdomaci\.vs\DomaciGIt\obj\Debug\netcoreapp3.1\DomaciGIt.genruntimeconfig.cache
